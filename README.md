@@ -50,7 +50,7 @@ To run this app on your local machine, follow these steps:
 
 1. Clone the Repository:
    
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/Ali-Hannan/quiz-app.git
 
 2. Navigate to the Project Directory:
 
